@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# good葳的学习笔记
 <!--
   -- Default theme
   -- (Read: http://tsingyun-go.github.io/mdwiki/#!customizing.md#Theme_chooser)
@@ -39,8 +39,8 @@
 
 
   
-[About](pages/about.md)
-[Download](pages/download.md)
+[数据库](pages/about.md)
+[网络](pages/download.md)
 
 [gimmick:themechooser](选择你喜欢的主题)
 
